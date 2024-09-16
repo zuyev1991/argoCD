@@ -1,0 +1,2 @@
+# argoCD
+Demo argoCD project
